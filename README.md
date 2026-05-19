@@ -26,9 +26,15 @@ This project is a desktop application built with python and Tkinter to support b
 cd EET-Circuit-Tool
    2- Install dependencies 
 pip install matplotlib numpy
-
    3- Run the app
 python eet_app.py
+
+# Skills demonstrated 
+Through this project, I developed:
+-practical understanding of ohm's law and electrical relationships 
+-experience building a graphical user interface (GUI)
+-basic data validation and error handling
+-interration of math models into visual applications 
 
 
 
